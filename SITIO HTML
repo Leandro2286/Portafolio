@@ -1,0 +1,96 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Leandro Villacis</title>
+        <meta name="description" content="Aquí debes colocar la descripción del sitio web">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+    </head>
+        <!--[if lt IE 8]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+
+        <div class="header-container">
+            <header class="wrapper clearfix">
+                <h1 class="title">Leandro Villacis</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#">Linkedin</a></li>
+                        <li><a href="#">Sobre Mi</a></li>
+                        <li><a href="#">Portafolio</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </div>
+
+        <div class="main-container">
+            <div class="main wrapper clearfix">
+
+                <article>
+                    <header>
+                        <h1>Sobre Mi</h1>
+                        <img src="img/Img1-LeandroV..png">
+
+                        <p>Apasionado por el marketing digital y la gestión de comunidades en línea. Capacitado en la creación de contenido atractivo, la implementación de estrategias, etc.</p>
+                    </header>
+                    
+                    <section>
+                        <section>
+                        <h2>Experiencia Laboral</h2>
+                        <p><li>Empresa Cosmos</li>Community Manager (2022-2023)</p>
+                        <h2>Educación</h2>
+                        <p><li>Bachillerato En Comercialización Y Ventas</li>Colegio Consejo Provincial de Pichincha (2022 - 2023)<li>Tecnología Marketing Digital Y Comercio Electónico</li>Instituto Universitario Cordillera (En Curso)</p>
+                    </section>
+                    <section>
+                        <h2>Cursos</h2>
+                        <p><li>Google Cloud Computing</li>Escuela De Organización Industrial (2024)<li>Marketing De Contenidos</li>HubSpot Academy (2023)</p>
+                    </section>
+                    <footer>
+                        <h2>Herramientas</h2>
+                        <p><li>Canva<li>Blogger<li>Photoshop</p>
+                        <h2>Idiomas</h2>
+                        <p><li>Español</li>(Nativo)<li>Ingles</li>(Básico)</p>
+                    </footer>
+                </article>
+
+                <aside>
+                    <h3>Estudiante de Tecnología Superior en Marketing Digital y Comercio Electrónico</h3>
+
+                    <img src="img/Img3 - Leandro V..png">
+                    <h3>Contacto</h3>
+                    <p><li>Teléfono: 0958627877
+<li>Correo Electrónico: villacisleandro2004@gmail .com</p>
+    <div class="contenedor">
+        <a href="https://linkedin.com/in/leandro-villacis-654624314/">
+            <img src="img/Linkedin Imagen..png">
+        </a>
+    </div>
+
+                </aside>
+
+            </div> <!-- #main -->
+        </div> <!-- #main-container -->
+
+        <div class="footer-container">
+            <footer class="wrapper">
+                <h3>Pié de página</h3>
+				<p></p>
+            </footer>
+        </div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+
+        <script src="js/main.js"></script>
+
+    </body>
+</html>
